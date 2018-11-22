@@ -5,16 +5,16 @@
 	  "category": "hue",
 	  "type": "primary",
 	  "code": {
-		"rgba": [255,255,255,1],
-		"hex": "#000"
+  		"rgba": [255,255,255,1],
+  		"hex": "#000"
 	  }
 	},
 	{
 	  "color": "white",
 	  "category": "value",
 	  "code": {
-		"rgba": [0,0,0,1],
-		"hex": "#FFF"
+  		"rgba": [0,0,0,1],
+  		"hex": "#FFF"
 	  }
 	},
 	{
@@ -22,8 +22,8 @@
 	  "category": "hue",
 	  "type": "primary",
 	  "code": {
-		"rgba": [255,0,0,1],
-		"hex": "#FF0"
+  		"rgba": [255,0,0,1],
+  		"hex": "#FF0"
 	  }
 	},
 	{
@@ -31,8 +31,8 @@
 	  "category": "hue",
 	  "type": "primary",
 	  "code": {
-		"rgba": [0,0,255,1],
-		"hex": "#00F"
+  		"rgba": [0,0,255,1],
+  		"hex": "#00F"
 	  }
 	},
 	{
